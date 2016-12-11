@@ -1268,7 +1268,7 @@ game (
 game (
 	name "Hangman ~ Spelling (USA)"
 	description "Hangman ~ Spelling (USA)"
-	rom ( name "HangmanvSpelling (USA).a26" size 4096 crc c2bcc789 md5 f16c709df0a6c52f47ff52b9d95b7d8d sha1 561bccf508e162bc70c42d85c170cf0d1d4691a3 )
+	rom ( name "Hangman ~ Spelling (USA).a26" size 4096 crc c2bcc789 md5 f16c709df0a6c52f47ff52b9d95b7d8d sha1 561bccf508e162bc70c42d85c170cf0d1d4691a3 )
 )
 
 game (
